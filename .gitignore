@@ -3,3 +3,6 @@
 
 #unneeded testing config
 config.json
+
+#Athan sound file
+*.mp3
