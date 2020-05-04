@@ -1,0 +1,5 @@
+#MAC metadata
+.DS_Store
+
+#unneeded testing config
+config.json
