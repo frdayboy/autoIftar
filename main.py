@@ -7,7 +7,7 @@ runforever = False
 
 def config():
     while True:
-        runforeverprompt = input("[autoIftar] Would you like to have this tool run forever until stopped?(yes or no): ")
+        runforeverprompt = raw_input("[autoIftar] Would you like to have this tool run forever until stopped?(yes or no): ")
         if runforeverprompt == "yes":
             runforever = True
             break
